@@ -61,3 +61,11 @@ body {
   position: absolute;
   border-radius: 50%;
 }
+
+.earth::before {
+  top: 2.8em;
+  right: 2.8em;
+  width: 3em;
+  height: 3em;
+  background-color: aqua;
+}
