@@ -34,6 +34,7 @@ body {
 .moon {
   position: absolute;
   border-style: solid;
-  border-radius: white transparent transparent transparent;
+  border-color: white transparent transparent transparent;
+  border-width: 0.1em 0.1em 0 0;
+  border-radius: 50%;
 }
-
