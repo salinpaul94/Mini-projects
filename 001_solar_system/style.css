@@ -44,7 +44,7 @@ body {
   left: 5em;
   width: 30em;
   height: 30em;
-  animation: orbit 36.5s linear infinite;
+  animation: orbit 10s linear infinite;
 }
 
 .moon {
@@ -68,4 +68,18 @@ body {
   width: 3em;
   height: 3em;
   background-color: aqua;
+}
+
+.moon::before {
+  top: 0.8em;
+  right: 0.2em;
+  width: 1.2em;
+  height: 1.2em;
+  background-color: silver;
+}
+
+@keyframes orbit {
+  to {
+    transform: rotate(360deg);
+  }
 }
