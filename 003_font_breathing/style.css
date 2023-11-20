@@ -22,3 +22,14 @@ body {
   align-items: center;
   height: 100%;
 }
+
+p {
+  font-family: "Geist";
+  font-size: 100px;
+  margin: 0;
+  background-color: white;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  --wght-min: 32;
+  --wght-max: 240;
+}
