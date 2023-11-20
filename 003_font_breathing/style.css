@@ -7,3 +7,11 @@
   font-family: "Geist";
   src: url("https://pham.codes/d/GeistMonoVF.woff2") format("woff2");
 }
+
+body {
+  height: 100%;
+  background: #111;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
