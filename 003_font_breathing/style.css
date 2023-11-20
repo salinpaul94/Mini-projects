@@ -39,4 +39,5 @@ p > span {
   animation: breath 1.5s alternate ease-in-out;
   animation-iteration-count: infinite;
   animation-delay: 1s;
+  animation-fill-mode: both;
 }
