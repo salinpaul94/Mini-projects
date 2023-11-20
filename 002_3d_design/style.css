@@ -110,4 +110,8 @@ span:nth-child(7) {
     transition: 0.7s;
     transform: rotate(0deg);
   }
+  20% {
+    transition: 0.7s;
+    transform: rotate(95deg);
+  }
 }
