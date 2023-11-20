@@ -1,5 +1,6 @@
-body {
-  background: #ecefff;
+* {
+  margin: 0;
+  padding: 0;
 }
 
 .center {
@@ -12,5 +13,4 @@ body {
   width: 250px;
   height: 250px;
   background: #42a5f5;
-
 }
