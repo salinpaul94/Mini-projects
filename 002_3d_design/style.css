@@ -49,3 +49,14 @@ span:nth-child(2) {
   animation: ani 3s infinite;
   animation-delay: 0.4s;
 }
+
+span:nth-child(3) {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  background: #e3f2fd;
+  left: 14%;
+  top: 14%;
+  animation: ani 3s infinite;
+  animation-delay: 0.5s;
+}
