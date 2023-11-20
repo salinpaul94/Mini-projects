@@ -46,4 +46,7 @@ p > span {
   0% {
     font-variation-settings: "wght" var(--wght-min);
   }
+  100% {
+    font-variation-settings: "wght" var(--wght-max);
+  }
 }
