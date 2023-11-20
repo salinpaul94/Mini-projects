@@ -2,3 +2,8 @@
   margin: 0;
   padding: 0;
 }
+
+@font-face {
+  font-family: "Geist";
+  src: url("https://pham.codes/d/GeistMonoVF.woff2") format("woff2");
+}
