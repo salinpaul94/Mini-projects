@@ -41,3 +41,9 @@ p > span {
   animation-delay: 1s;
   animation-fill-mode: both;
 }
+
+@keyframes breath {
+  0% {
+    font-variation-settings: "wght" var(--wght-min);
+  }
+}
