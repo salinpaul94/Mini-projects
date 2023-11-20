@@ -38,3 +38,14 @@ span:nth-child(1) {
   animation: ani 3s infinite;
   animation-delay: 0.3s;
 }
+
+span:nth-child(2) {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background: #bbdefb;
+  left: 10%;
+  top: 10%;
+  animation: ani 3s infinite;
+  animation-delay: 0.4s;
+}
