@@ -27,8 +27,8 @@ button {
   border: 0;
   background: rgba(255, 255, 255, 0.1);
   position: relative;
-  color: red;
-  font-weight: 400;
+  color: white;
+  font-weight: 500;
   border-radius: 0.5rem;
   overflow: hidden;
 }
@@ -56,7 +56,7 @@ button span {
   position: relative;
   z-index: 1;
   opacity: 0.75;
-  color: red;
+  color: white;
   transition: all 0.5s ease-in-out;
 }
 
