@@ -48,4 +48,5 @@ button span {
   z-index: 1;
   opacity: 0.75;
   color: red;
+  transition: all 0.5s ease-in-out;
 }
