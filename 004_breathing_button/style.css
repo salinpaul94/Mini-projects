@@ -66,4 +66,6 @@ body {
   width: 100%;
   background: black;
   font-size: 24px;
+  display: flex;
+  align-items: center;
 }
