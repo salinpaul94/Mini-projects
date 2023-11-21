@@ -60,3 +60,8 @@ button:hover iframe {
 button:hover span {
   opacity: 1;
 }
+
+body {
+  height: 100%;
+  width: 100%;
+}
