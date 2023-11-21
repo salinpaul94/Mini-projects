@@ -24,3 +24,8 @@
   border-top: 3px solid red;
   animation: ani 3s linear infinite;
 }
+
+.circle2 {
+  width: 130px;
+  height: 130px;
+}
