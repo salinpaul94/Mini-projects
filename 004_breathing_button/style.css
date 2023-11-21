@@ -3,6 +3,15 @@
   padding: 0;
   font-family: sans-serif;
 }
+body {
+  height: 100%;
+  width: 100%;
+  background: black;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-self: center;
+}
 
 iframe {
   border: 0;
@@ -61,11 +70,4 @@ button:hover span {
   opacity: 1;
 }
 
-body {
-  height: 100%;
-  width: 100%;
-  background: black;
-  font-size: 24px;
-  display: flex;
-  align-items: center;
-}
+
