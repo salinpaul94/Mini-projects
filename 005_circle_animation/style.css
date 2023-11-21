@@ -28,4 +28,6 @@
 .circle2 {
   width: 130px;
   height: 130px;
+  border-radius: 50%;
+  border: 3px solid #fee84422;
 }
