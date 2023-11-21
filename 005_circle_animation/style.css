@@ -22,4 +22,5 @@
   border-radius: 50%;
   border: 3px solid #fe444425;
   border-top: 3px solid red;
+  animation: ani 3s linear infinite;
 }
