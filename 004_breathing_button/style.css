@@ -56,3 +56,7 @@ button:hover iframe {
   opacity: 1;
   filter: blur(0);
 }
+
+button:hover span {
+  opacity: 1;
+}
