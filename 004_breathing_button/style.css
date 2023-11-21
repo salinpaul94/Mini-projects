@@ -9,3 +9,11 @@ iframe {
   width: 512px;
   height: 512px;
 }
+
+button {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  appearance: none;
+  border: 0;
+  background: rgba(255, 255, 255, 0.1);
+}
