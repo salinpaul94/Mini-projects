@@ -31,7 +31,7 @@
   border-radius: 50%;
   border: 3px solid #fee84422;
   border-top: 3px solid yellow;
-  animation: ani 2s linear infinite;
+  animation: ani 3s linear infinite;
 }
 
 @keyframes ani {
