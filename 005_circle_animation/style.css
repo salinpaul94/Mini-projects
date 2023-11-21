@@ -20,7 +20,7 @@
   height: 200px;
   width: 200px;
   border-radius: 50%;
-  border: 3px solid #fe444425;
+  border: 3px solid #fe44440;
   border-top: 3px solid red;
   animation: ani 1s linear infinite;
 }
