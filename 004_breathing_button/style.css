@@ -16,4 +16,10 @@ button {
   appearance: none;
   border: 0;
   background: rgba(255, 255, 255, 0.1);
+  position: relative;
+  color: white;
+  font-weight: 400;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  font-family: inherit;
 }
