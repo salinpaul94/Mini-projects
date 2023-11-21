@@ -64,4 +64,6 @@ button:hover span {
 body {
   height: 100%;
   width: 100%;
+  background: black;
+  font-size: 24px;
 }
