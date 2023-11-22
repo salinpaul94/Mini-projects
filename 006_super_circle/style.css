@@ -26,10 +26,16 @@
 }
 
 .circle h1 {
-  color: #bdb9c7;
+  color: #bdb9c700;
   font-weight: 900;
   font-size: 1.6em;
   text-transform: uppercase;
   user-select: none;
   transition: color 0.8s ease-in-out;
+}
+
+.circle:before,
+.circle:after {
+  border-radius: 100%;
+  content: "";
 }
