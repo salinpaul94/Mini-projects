@@ -26,6 +26,8 @@
 }
 
 .circle h1 {
-  color: #bdb9c700;
+  color: #bdb9c7;
   font-weight: 900;
+  font-size: 1.6em;
+  text-transform: uppercase;
 }
