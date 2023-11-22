@@ -21,4 +21,5 @@ function updateGradient() {
 
   let istep = 1 - step;
   let r1 = Math.round(istep * c0_0[0] + step * c0_1[0]);
+  let g1 = Math.round(istep * c0_0[1] + step * c0_1[1]);
 }
