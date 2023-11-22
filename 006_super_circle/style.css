@@ -41,4 +41,8 @@
   position: absolute;
   top: 0;
   left: 0;
+  width: inherit;
+  height: inherit;
+  box-shadow: inset 10.6em 0 0 #a8b84833, inset 0 10.6em 0 #a8b8f833,
+    inset -10.6em 0 0 #a8b84833, inset 0 -10.6em 0 #a8b84833;
 }
