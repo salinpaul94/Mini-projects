@@ -14,4 +14,5 @@ let gradientSpeed = 0.002;
 function updateGradient() {
   if ($ === undefined) return;
   let c0_0 = colors[colorIndices[0]];
+  let c0_1 = colors[colorIndices[1]];
 }
