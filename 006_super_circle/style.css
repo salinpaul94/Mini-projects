@@ -22,4 +22,5 @@
   align-items: center;
   cursor: pointer;
   overflow: hidden;
+  transform: translateZ(0);
 }
