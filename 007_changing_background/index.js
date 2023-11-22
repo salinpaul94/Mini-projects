@@ -26,4 +26,5 @@ function updateGradient() {
   let color1 = `rgb(${r1},${g1},${b1})`;
 
   let r2 = Math.round(istep * c1_0[0] + step * c1_1[1]);
+  let g2 = Math.round(istep * c1_0[1] + step * c1_1[1]);
 }
