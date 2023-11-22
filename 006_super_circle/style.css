@@ -24,3 +24,8 @@
   overflow: hidden;
   transform: translateZ(0);
 }
+
+.circle h1 {
+  color: #bdb9c700;
+  font-weight: 900;
+}
