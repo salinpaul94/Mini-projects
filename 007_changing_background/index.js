@@ -29,4 +29,19 @@ function updateGradient() {
   let g2 = Math.round(istep * c1_0[1] + step * c1_1[1]);
   let b2 = Math.round(istep * c1_0[2] + step * c1_1[2]);
   let color2 = `rgb(${r2},${g2},${b2})`;
+
+  $("#gradient").css({
+    background:
+      "-webkit-gradient(lienar, left top, right top, from(" +
+      color1 +
+      "), to(" +
+      color2 +
+      "))",
+  });
+
+  step += gradientSpeed;
+  if (step >= 1) {
+    step %= 1;
+    colorIndices[0] = colorIndices[1];
+  }
 }
