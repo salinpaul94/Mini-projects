@@ -6,3 +6,5 @@ let colors = new Array(
   [255, 0, 255],
   [255, 128, 0]
 );
+
+let step = 0;
