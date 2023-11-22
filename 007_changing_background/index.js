@@ -9,3 +9,4 @@ let colors = new Array(
 
 let step = 0;
 let colorIndices = [0, 1, 2, 3];
+let gradientSpeed = 0.002;
