@@ -30,4 +30,6 @@
   font-weight: 900;
   font-size: 1.6em;
   text-transform: uppercase;
+  user-select: none;
+  transition: color 0.8s ease-in-out;
 }
