@@ -47,3 +47,7 @@
     inset -10.6em 0 0 #a8b84833, inset 0 -10.6em 0 #a8b84833;
   transition: box-shadow 0.75s;
 }
+
+.circle:after {
+  transform: rotate(45deg);
+}
