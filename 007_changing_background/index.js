@@ -47,5 +47,8 @@ function updateGradient() {
     colorIndices[1] =
       (colorIndices[1] + Math.floor(1 + Math.random() * (colors.length - 1))) %
       colors.length;
+    colorIndices[3] =
+      (colorIndices[3] + Math.floor(1 + Math.random() * (colors.length - 1))) %
+      colors.length;
   }
 }
