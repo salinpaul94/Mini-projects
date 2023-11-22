@@ -18,4 +18,6 @@ function updateGradient() {
   let c0_2 = colors[colorIndices[2]];
 
   let c1_1 = colors[colorIndices[3]];
+
+  let istep = 1 - step;
 }
