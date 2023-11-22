@@ -6,4 +6,6 @@
 #container {
   background: #444;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
