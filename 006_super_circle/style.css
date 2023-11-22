@@ -38,4 +38,7 @@
 .circle:after {
   border-radius: 100%;
   content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
 }
