@@ -16,4 +16,6 @@ function updateGradient() {
   let c0_0 = colors[colorIndices[0]];
   let c0_1 = colors[colorIndices[1]];
   let c0_2 = colors[colorIndices[2]];
+
+  let c1_1 = colors[colorIndices[3]];
 }
